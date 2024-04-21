@@ -1,7 +1,9 @@
 # 🎮Jogo - Herói x Vilão
 
 Este é um jogo simples que se passa entre dois personagens "Malenia" e "General Radahn" do jogo Elden Ring em um momento de batalha épica entre eles. Na história oficial de Elden Ring, após o sumiço de Marika, os meio-irmãos Malenia e Radahn escolhem lutar pelos pedaços restantes do Anel Prístino em Caelid. A batalha termina sem um vencedor, diferente desse jogo que é necessário ter um vencedor. O jogo permite que você controle a Malenia e crie estratégias para vencer o General Radahn.
-![image](https://github.com/ITzspi/jogo-heroi-vilao/assets/141787351/ecb16ab5-bc50-4bfe-9d87-1d38f0ab103b)
+
+![image](https://github.com/ITzspi/jogo-heroi-vilao/assets/141787351/96d3a0db-94bd-41bb-b095-2d0c33be1e77)
+
 
 
 ## ⚙️Funcionalidades do Jogo
