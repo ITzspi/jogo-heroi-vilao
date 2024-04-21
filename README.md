@@ -7,6 +7,7 @@ Este é um jogo simples que se passa entre dois personagens "Malenia" e "General
 
 
 ## ⚙️Funcionalidades do Jogo
+
 **Ações Disponíveis**: Os jogadores podem escolher entre as seguintes ações durante a batalha:
   - Atacar: Causa dano ao adversário.
   - Defender: Reduz o dano recebido do adversário.
@@ -20,7 +21,8 @@ Este é um jogo simples que se passa entre dois personagens "Malenia" e "General
 
 
 
-## Como Jogar
+## 🕹️Como Jogar
 
-1. 
+1. Acesse o jogo através do seguinte link: [Jogo - Herói x Vilão](https://itzspi.github.io/jogo-heroi-vilao/)
+
 
